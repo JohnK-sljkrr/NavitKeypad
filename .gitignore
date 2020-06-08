@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Slickedit files
+NavitKeypad.v*
+
 # Compiled Object files
 *.slo
 *.lo
